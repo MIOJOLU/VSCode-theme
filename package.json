@@ -1,0 +1,22 @@
+{
+    "name": "miojolu",
+    "displayName": "miojolu-theme-2021",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "LuizaParente",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "miojolu-2021",
+                "uiTheme": "vs-dark",
+                "path": "./themes/miojolu-2021-color-theme.json"
+            }
+        ]
+    }
+}
